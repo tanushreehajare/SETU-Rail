@@ -231,27 +231,8 @@ with mlflow.start_run(run_name="vani_bhasha_eval"):
     for q, expected_lang in bhasha_qs:
         result = vani_answer(q)
         mlflow.log_metric("answer_accuracy", score(result, expected_lang))
+
 ```
-
----
-
-## 🏆 Judging Checklist
-
-- [x] Runs on fresh Databricks Free Edition workspace
-- [x] All commands are copy-paste ready
-- [x] Medallion architecture (Bronze/Silver/Gold) with Delta Lake
-- [x] Spark MLlib distributed training (GBTRegressor)
-- [x] MLflow experiment tracking + model registry
-- [x] Databricks Vector Search (Delta-synced, BGE-Large-EN)
-- [x] Databricks Genie (NL → SQL over Gold tables)
-- [x] AI/BI Dashboard (PM2.5 × delay correlation)
-- [x] Databricks Apps (Streamlit frontend)
-- [x] Indian LLM: Param-1 (primary) + IndicTrans2 (translation)
-- [x] 12+ Indian languages supported
-- [x] Cascade delay propagation (innovation differentiator)
-- [x] Legal citations from Railways Act 1989
-
----
 
 ## 👥 Team
 
