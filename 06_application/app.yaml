@@ -1,7 +1,11 @@
 command:
-  - python
+  - streamlit
+  - run
   - app.py
 
 env:
-  - name: DATABRICKS_APP_PORT
-    value: "8000"
+  - name: DASHBOARD_URL
+    value: ""
+  # Paste your published AI/BI dashboard embed URL above.
+  # Format: https://<workspace>.cloud.databricks.com/embed/dashboardsv3/<id>
+  # Get it from: Dashboard → Share → Embed
