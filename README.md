@@ -1,10 +1,10 @@
-# 🚂 SETU-Rail
+# 🚂 SETU Rail
 
 **Smart Emergency & Travel Understanding for Indian Railways**
 
 A Lakehouse-native AI copilot built on Databricks Free Edition for the Bharat Bricks Hacks 2026 (IIT Madras) — Rail-Drishti track.
 
-## What it does (1-line)
+## What it does
 SETU-Rail fuses **Dhara** (cascade-aware delay prediction), **Vani** (Param-1 powered multilingual rulebook chatbot) and **Drishti** (passenger action panel) into a single Databricks app serving 12+ Indian languages.
 
 ## Architecture
