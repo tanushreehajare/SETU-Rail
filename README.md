@@ -18,7 +18,7 @@ A Lakehouse-native AI copilot built on **Databricks Free Edition** that fuses ca
 
 ## 🏗️ Architecture
 
-[Architecture](architecture.png)
+[Architecture](images/architecture.png)
 
 ---
 
