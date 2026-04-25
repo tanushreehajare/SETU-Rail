@@ -165,27 +165,40 @@ Answer (with inline citations):"""
         "model": model_name,
     }
 
-def predict_delay(train_no: str, station_code: str, run_date: dt.date,
-                  scheduled_hour: int, pm25: float = 80.0, no2: float = 30.0):
+def predict_delay(train_no: str, station_code: str, run_date, scheduled_hour: int,
+                  pm25: float = 80.0, no2: float = 30.0):
     from pyspark.sql import Row
     spark = get_spark()
     model = get_ml_model()
 
     is_peak = 1 if (6 <= scheduled_hour <= 10) or (17 <= scheduled_hour <= 20) else 0
-    dow = run_date.isoweekday() + 1     # Spark's dayofweek: 1=Sun..7=Sat
-    month = run_date.month
-
-    # Naive junction flag — real app joins station_master
     junctions = {"MAS", "SBC", "NDLS", "HWH", "CSMT", "SC", "HYB", "BCT"}
     is_junction = 1 if station_code in junctions else 0
 
+    # Frequency encoding: use lookup from gold table, fallback to 100 (average)
+    freq_query = f"""
+        SELECT 
+            COALESCE((SELECT COUNT(*) FROM setu_rail.gold.features_delay_ml 
+                      WHERE train_no = '{train_no}'), 100) AS train_no_freq,
+            COALESCE((SELECT COUNT(*) FROM setu_rail.gold.features_delay_ml 
+                      WHERE station_code = '{station_code}'), 100) AS station_code_freq
+    """
+    freq_row = spark.sql(freq_query).collect()[0]
+
     feats = spark.createDataFrame([Row(
-        train_no=str(train_no),
-        station_code=str(station_code),
-        dow=dow, month=month,
-        scheduled_hour=scheduled_hour, is_peak=is_peak,
-        pm25=float(pm25), no2=float(no2),
-        is_junction=is_junction, prev_station_delay=0.0,
+        train_no_freq=float(freq_row["train_no_freq"]),
+        station_code_freq=float(freq_row["station_code_freq"]),
+        stop_seq=0,
+        total_stops=50,
+        cumulative_travel_min=0,
+        dwell_min=5,
+        scheduled_hour=scheduled_hour,
+        is_peak_hour=is_peak,
+        pm25=float(pm25),
+        no2=float(no2),
+        journey_day=1,
+        train_type="EXP",   # default; will be indexed
+        zone="SR",          # default; will be indexed
         arrival_delay_min=0.0,
     )])
     pred = model.transform(feats).select("prediction").collect()[0]["prediction"]
