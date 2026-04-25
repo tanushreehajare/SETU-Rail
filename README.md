@@ -255,6 +255,7 @@ with mlflow.start_run(run_name="vani_bhasha_eval"):
 
 ## 👥 Team
 
+Tanushree Hajare & Siddhant Bambade 
 Built for **Bharat Bricks Hacks 2026** · IIT Madras campus · April 24–25, 2026 · Rail-Drishti Track
 
 ## 📄 License
