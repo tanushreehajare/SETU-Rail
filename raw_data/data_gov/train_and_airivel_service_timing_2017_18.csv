@@ -1,0 +1,24 @@
+S.No,Name of the Train,Train Number,Depature Time,Arrival Time
+1,Karaikudi to Tiruchirappalli,76830,6:35,9:00
+2,Tiruchirappalli to Karaikudi,76831,18:15,20:35
+3,Tiruchirappalli to Rameswaram,56829,6:15,12:45
+4,Rameswaram to Tiruchirappalli ,56830,14:01,21:00
+5,Chennai Egmore to Rameswaram,16713,17:00,4:45
+6,Rameswaram to Chennai Egmore,16714,20:00,8:02
+7,Chennai Egmore to Rameswaram,16701,21:04,11:45
+8,Rameswaram to Chennai Egmore ,16702,17:00,6:03
+9,Madurai to Rameswaram,56721,0:01,3:45
+10,Rameswaram to Madurai,56723,6:15,10:05
+10,Madurai to Rameswaram,56703,6:15,10:05
+11,Madurai to Rameswaram,56725,18:15,22:35
+12,Rameswaram to Madurai,56722,0:05,4:05
+13,Madurai to Rameswaram,56724,5:25,9:02
+14,Rameswaram to Madurai,56726,17:35,21:02
+15,Manamadurai to Tiruchirappalli (Except Saturday) (Demo Special from Karaikudi),06838,7:55,09:15 (Karaikudi Arrival)
+16,Manamadurai to Tiruchirappalli (Except Saturday) (Demo Special from Karaikudi),06840,9:04,12:05
+17,Tiruchirappalli to Manamadurai (Except Saturday) (Demo Special from Karaikudi),06839,15:55,08:15 (Karaikudi Arrival)
+18,Tiruchirappalli to Manamadurai (Except Saturday) (Demo Special from Karaikudi),06837,18:03,19:05
+19,Varanasi to Rameswaram (Tuesday only) From Tiruchirappalli,14260,18:05,1:05
+20,Rameswaram to Varanasi (Wednesday only),14259,23:00,04:40 (On Saturday)
+21,Bhuvaneshvar to Rameswaram (Saturday only) From Tiruchirappalli,18496,17:55,NA
+22,Rameswaram to Bhuvaneshvar (Sunday only),18495,8:00,18:45 (On Monday)

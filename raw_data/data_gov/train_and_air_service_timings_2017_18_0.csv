@@ -1,0 +1,71 @@
+S.No,Train Name & Number passing via Nagercoil Junction,Arrival,Departure,Stop Time,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+1,Punalur Passenger (56700),4:45,4:55,10 min,Yes,Yes,Yes,Yes,Yes,Yes,NA
+2,Chennai Express (06748),Start,17.00,NA,No,No,No,No,No,No,NA
+3,Nagercoil Express (16537),14.00,End,NA,No,No,No,Yes,No,No,NA
+4,Bangalore Express (17236),Start,19:05,NA,Yes,Yes,Yes,Yes,Yes,Yes,NA
+5,Chennai Express (06310),Start,0.79,NA,No,No,No,No,No,No,NA
+6,Chennai Egmore Guruvayur Express (16127),21:25,21:35,10 min,Yes,Yes,Yes,Yes,Yes,Yes,NA
+7,Tirukkural Express (12641),19:35,0.79,5 min,No,No,Yes,No,Yes,No,NA
+8,Madurai Passenger (56701),0.92,0.92,10 min,Yes,Yes,Yes,Yes,Yes,Yes,NA
+9,Kanyakumari Express (16526),14:25,0.59,5 min,Yes,Yes,Yes,Yes,Yes,Yes,NA
+10,Nagercoil Express (16335),6:45,End,NA,No,No,No,No,Yes,No,NA
+11,Gurudev Express (12659),Start,0.59,NA,No,No,No,No,No,No,NA
+12,Nagercoil Chennai Express (12690),Start,0.79,NA,No,No,No,No,No,No,NA
+13,Kacheguda Nagercoil Special (06307),21:15,End,NA,No,No,Yes,No,No,No,NA
+14,Puducherry Express (06862),13:55,14.00,5 min,No,Yes,No,No,No,No,NA
+15,Puducherry Cape Express (06861),0.33,8:15,5 min,Yes,No,No,No,No,No,NA
+16,Mangalore Express (06304),Start,20:35,NA,No,No,Yes,No,No,No,NA
+17,Cape Rameswaram Express (12790),22:15,0.92,5 min,No,Yes,No,No,Yes,No,NA
+18,Trivandrum Hyderabad Express (06305),4:45,0.00,11 min,No,No,No,No,No,Yes,NA
+19,Chennai Express (06348),0.00,0.67,10 min,No,No,Yes,No,No,No,NA
+20,Chennai Express (12668),Start,17:05,NA,No,No,No,No,Yes,No,NA
+21,Cape Mumbai Express (16382),0.29,7:15,5 min,Yes,Yes,Yes,Yes,Yes,Yes,NA
+22,Nagercoil Express (06309),6:55,End,NA,Yes,No,No,No,No,No,NA
+23,Anantapuri Express (16723),10:05,10:15,10 min,Yes,Yes,Yes,Yes,Yes,Yes,NA
+24,Puducherry Express (16862),0.55,13:55,5 min,No,No,No,No,Yes,No,NA
+25,Hyderabad Chennai (MAS) Superfast Special (06306),0.00,21:05,12 min,Yes,No,No,No,No,No,NA
+26,Nagercoil Express (12689),11:05,End,NA,No,No,No,No,Yes,No,NA
+27,Trivandrum Velankanni Express (06302),0.00,14.00,8 min,No,No,Yes,No,No,No,NA
+28,Ernad Express (16606),Start,2.00,NA,Yes,Yes,Yes,Yes,Yes,Yes,NA
+29,Kanyakumari Express (12633),6:15,0.25,5 min,Yes,Yes,Yes,Yes,Yes,Yes,NA
+30,Parasuram Express (16649),0.84,End,NA,Yes,Yes,Yes,Yes,Yes,Yes,NA
+31,Anantapuri Express (16724),17:45,17:55,10 min,Yes,Yes,Yes,Yes,Yes,Yes,NA
+32,Nagercoil Patna Express (06354),Start,0.25,NA,No,No,No,No,No,No,Yes
+33,Guruvayur Chennai Express (16128),5:15,5:25,10 min,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+34,Chennai Express (06006),Start,0.54,NA,No,No,No,No,Yes,No,No
+35,Cape Howrah Express (12666),0.33,8:15,5 min,No,No,No,No,No,Yes,No
+36,Chennai Egmore (MS) Nagercoil Premium (00611),3:45,End,NA,No,Yes,No,No,No,No,No
+37,Yesvantpur Express (06597),Start,0.54,NA,No,No,Yes,No,No,No,No
+38,Nagercoil Chennai Egmore (Ms) Express (06352),Start,17:05,NA,Yes,No,No,No,No,No,No
+39,Yesvantpur Nagercoil Premium (02689),0.38,End,NA,No,Yes,No,No,No,No,No
+40,Nagercoil Chennai Egmore (MS) Premium (00632),Start,17:05,NA,No,No,No,Yes,No,No,No
+41,Nagercoil Express (16339),0.13,End,NA,No,No,Yes,Yes,Yes,No,Yes
+42,Kanyakumari Express (12634),17:35,0.71,5 min,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+43,Nagercoil Express (16351),4:15,End,NA,No,Yes,No,No,No,Yes,No
+44,Nagercoil Express (12667),8:05,End,NA,No,No,No,Yes,No,No,No
+45,Kanyakumari Express (12665),10:55,11.00,5 min,Yes,No,No,No,No,No,No
+46,Kacheguda Nagercoil Express (16353),0.88,End,NA,No,No,Yes,No,No,No,No
+47,Ernad Express (16605),23:15,End,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+48,Nagercoil Express (06598),0.59,End,NA,No,No,No,No,No,Yes,No
+49,Puducherry Cape Express (16861),0.09,2:33,3 min,No,No,No,Yes,No,No,No
+50,Coimbatore Express (16609),Start,20:25,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+51,Nagercoil Express (17235),0.30,End,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+52,Bangalore Express (16525),10:45,0.42,5 min,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+53,Chennai Egmore (MS) Nagercoil Express (06351),3:45,End,NA,No,No,No,No,Yes,No,No
+54,Nagercoil Mumbai Express (16352),Start,5.00,NA,No,No,No,Yes,No,No,Yes
+55,Gandhidham Express (16336),Start,14.00,NA,No,Yes,No,No,No,No,No
+56,Parasuram Express (16650),Start,0.17,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+57,Yesvantpur Express (06599),Start,0.67,NA,No,No,No,No,No,No,Yes
+58,Mumbai Express (16340),Start,0.25,NA,Yes,Yes,Yes,No,Yes,No,No
+59,Vivek Express (15906),0.38,9:25,5 min,No,No,No,No,No,Yes,No
+60,Himsagar Express (16317),0.59,14:35,5 min,No,No,No,No,Yes,No,No
+61,Dibrugarh Vivek Express (15905),23:15,0.96,5 min,No,No,No,Yes,No,No,No
+62,Nagercoil Express (16610),7:05,End,NA,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+63,Patna Nagercoil Special (06353),0.71,End,NA,No,No,No,No,Yes,No,No
+64,Kanyakumari Express (16381),0.46,11:55,5 min,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+65,Tirukkural Express (12642),0.33,8:13,3 min,Yes,No,No,No,No,Yes,No
+66,Cape Rameswaram Express (22622),22:15,0.92,5 min,No,Yes,No,No,Yes,No,Yes
+67,Himsagar Express (16318),0.84,0.84,10 min,Yes,No,No,No,No,No,No
+68,Kacheguda Express (16354),Start,0.33,NA,No,Yes,No,No,No,No,No
+69,Rameswaram Cape Express (22621),3:32,3:35,3 min,Yes,No,No,Yes,No,Yes,No
+70,Gurudev Express (12660),22.00,End,NA,No,No,Yes,No,No,No,No

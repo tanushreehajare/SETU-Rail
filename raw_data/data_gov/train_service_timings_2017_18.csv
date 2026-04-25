@@ -1,0 +1,31 @@
+S.No,Year,Train Number,Name of the Train,From,To,Arrival,Departure,Distance (in Kilometre),Track Time (in Hours)
+1,2017-18,16129/Slip,Tuticorin Link Express,Chennai Egmore,Thoothukudi,20.30,NA,652,NA
+2,2017-18,16129/Slip,Tuticorin Link Express,Thoothukudi,Chennai Egmore,NA,07.50,652,NA
+3,2017-18,12693,Pearl City SF Express,Chennai Egmore,Thoothukudi,06.40,NA,652,NA
+4,2017-18,12694,Pearl City SF Express,Thoothukudi,Chennai Egmore,NA,20.00,652,NA
+5,2017-18,16235,Mysore Express,Thoothukudi,Mysuru,NA,16.25,783,NA
+6,2017-18,16236,Mysore Express,Mysuru,Thoothukudi,11.15,NA,783,NA
+7,2017-18,22669/Slip,Coimbatore SF Express,Thoothukudi,Coimbatore,NA,22.35,461,NA
+8,2017-18,22670/Slip,Coimbatore SF Express,Coimbatore,Thoothukudi,03.55,NA,461,NA
+9,2017-18,19567,Vivek Express,Thoothukudi,Okha,NA,22.00,2745,NA
+10,2017-18,19568,Vivek Express,Okha,Thoothukudi,07.10,NA,2745,NA
+11,2017-18,56741,Tirunelveli Passenger,Thoothukudi,Tirunelveli,NA,17.50,NA,NA
+12,2017-18,56742,Tirunelveli Passenger,Tirunelveli,Thoothukudi,09.35,NA,NA,NA
+13,2017-18,56767,Tiruchendur Passenger,Thoothukudi,Tiruchendur,NA,08.45,NA,NA
+14,2017-18,56768,Tiruchendur Passenger,Tiruchendur,Thoothukudi,18.30,NA,NA,NA
+15,2016-17,NA,Pearl City Express,Chennai Egmore,Thoothukudi,01.50,13.00,652,11.5
+16,2016-17,NA,Pearl City Express,Thoothukudi,Chennai Egmore,06.30,19.30,652,11.05
+17,2016-17,16235,Mysore Express,Mysuru,Thoothukudi,10.00,16.35,783,17.25
+18,2016-17,16236,Mysore Tuticorin Express,Thoothukudi,Mysuru,11.15,18.00,783,17.3
+19,2016-17,56827,Tuticorin - Tirunelveli,Thoothukudi,Tirunelveli,NA,20.30,NA,NA
+20,2016-17,56828,Tirunelveli - Tuticorin,Tirunelveli,Thoothukudi,07.15,NA,NA,NA
+21,2016-17,56767,Tuticorin - Tiruchendur Passenger,Thoothukudi,Tiruchendur,NA,08.45,NA,NA
+22,2016-17,56768,Tiruchendur - Tuticorin,Tiruchendur,Thoothukudi,18.45,NA,NA,NA
+23,2016-17,56763,Tirunelveli - Tiruchendur,Tirunelveli,Tiruchendur,09.35,NA,NA,NA
+24,2016-17,56764,Tiruchendur - Tirunelveli,Tiruchendur,Tirunelveli,NA,17.45,NA,NA
+25,2016-17,16106,Senthur Express,Chennai Egmore,Tiruchendur,11.25,19.00,NA,NA
+26,2016-17,16105,Senthur Express,Tiruchendur,Chennai Egmore,08.25,13.05,NA,NA
+27,2016-17,22669,Tuticorin - Coimbatore,Thoothukudi,Coimbatore,07.00,22.35,461,8.25
+28,2016-17,22670,Coimbatore - Tuticorin,Coimbatore,Thoothukudi,03.55,13.06,461,8.25
+29,2016-17,NA,Vivek Express,Thoothukudi,Okha,13.35,22.55,2745,50.4
+30,2016-17,NA,Vivek Express (Thursday),Okha,Thoothukudi,6.45,23.45,2745,55

@@ -1,6 +1,3 @@
-# Large data files - upload directly to Databricks Volume instead of committing
-raw_data/
-
 
 # Python
 __pycache__/
