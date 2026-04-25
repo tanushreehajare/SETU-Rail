@@ -1,0 +1,13 @@
+gradio>=4.20,<5
+mlflow>=2.10
+pandas
+numpy
+matplotlib
+shap
+faiss-cpu
+sentence-transformers
+llama-cpp-python
+transformers>=4.40
+torch
+huggingface-hub
+pypdf

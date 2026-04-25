@@ -1,0 +1,25 @@
+S.No,Train Number,Train Name,From,To,Arrival to Pudukkottai,Departure from Pudukkottai,Day
+1,16701,Rameswaram Express,Chennai,Rameswaram,6:24,6.25,Daily
+2,16702,Chennai Express,Rameswaram,Chennai,21:14,21:15,Daily
+3,6009,Coimbatore Express,Santragachi Junction,Puducherry,4:33,4:35,Sunday
+4,6010,RMM-MAS Express,Rameswaram,Chennai Central,19:53,19:55,Friday
+5,6861,PDY Cape Express,Puducherry,Kanniyakumari,0:28,0:30,Monday
+6,6862,Puducherry Express,Kanniyakumari,Puducherry,20:28,20:30,Tuesday
+7,6302,TVC-VLNK Express,Nagarcoil Junction,Vellankanni,20:28,20:30,Wednesday
+8,16617,Coimbatore Express,Rameswaram,Coimbatore Junction,23:16,23:17,Wednesday
+9,16618,Rameswaram Express,Coimbatore Junction,Rameswaram,1:01,1:02,Tuesday
+10,16181,Silambu Express,Chennai Egmore,Manamadurai Junction,4:09,4:10,"Wednesday, Saturday"
+11,16182,Silambu Express,Manamadurai Junction,Chennai Egmore,22:09,22:10,"Thursday, Sunday"
+12,16861,PDY Cape Express,Kanyakumari,Puducherry,18:14,18:15,Thursday
+13,16862,Puducherry Express,Kanyakumari,Puducherry,20:29,20:30,Friday
+14,16101,Rameswaram Express,Chennai Egmore,Rameswaram,6:24,6:25,Daily
+15,16102,Chennai Express,Rameswaram,Chennai Egmore,21:14,21:15,Daily
+16,12606,Pallavan Express,Karaikudi Junction,Chennai Egmore,5:04,5:05,Daily
+17,12605,Pallavan Express,Chennai Egmore,Karaikudi Junction,22:11,22:12,Daily
+18,16713,Rameswaram Express,Chennai Egmore,Rameswaram,23:44,23:45,Daily
+19,16714,RMM-Chennai Express,Rameswaram,Chennai Egmore,0:24,0:25,Daily
+20,14259,RMM-Varanasi Express,Rameswaram,Varanasi Junction,2:56,2:57,Wednesday
+21,18496,BBS-RMM Express,Bhubaneswar,Rameswaram,18:14,18:15,Friday
+22,18495,Bhubaneswar Express,Rameswaram,Bhubaneswar,12:19,12:20,Sunday
+23,15119,RMM-MUV Express,Rameswaram,Manduadih,2:56,2:57,Wednesday
+24,15120,MUV-RMM Express,Manduadih,Rameswaram,19:23,19:25,Sunday

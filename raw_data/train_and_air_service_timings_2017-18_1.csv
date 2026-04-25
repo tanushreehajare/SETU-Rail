@@ -1,0 +1,21 @@
+S.No,Train No,Railway Station,Train Route,From,To,Train Type,Day,Arrival,Departure
+1,12255,Hosur,Bangalore to Salem,Yeshwanthpur,Pondicherry,Garibrath Express,Friday,22.08,22.1
+2,12648,Hosur,Bangalore to Salem,Nizamudeen,Coimbatore,Express,Friday,2.08,2.1
+3,12677,Hosur,Bangalore to Salem,Bangalore,Ernakulam,Intercity,Daily,7.19,7.2
+4,56514,Hosur,Bangalore to Salem,Bangalore,Karaikal,Passenger,Daily,8.32,8.34
+5,56242,Hosur,Bangalore to Salem,Yeshwanthpur,Salem,Passenger,Daily,17.31,17.33
+6,76553,Hosur,Bangalore to Salem,Bangalore,Dharmapuri,Push and Pull Passenger,Except Sunday,19.35,19.37
+7,16232,Hosur,Bangalore to Salem,Mysore,Mayiladuthurai,Express,Daily m.w,20.03,20.05
+8,16527,Hosur,Bangalore to Salem,Yeshwanthpur,Cannonnore,Express,Daily,21.08,21.1
+9,16235,Hosur,Bangalore to Salem,Tuticorin,Mysore,Mysore Express,Daily,4.43,4.45
+10,11013,Hosur,Bangalore to Salem,Lokmanya Tilak,Coimbatore,Express,Daily,23.13,23.15
+11,16231,Hosur,Salem to Bangalore,Myladudurai,Mysore,Express,Daily,3.43,3.45
+12,16236,Hosur,Salem to Bangalore,Mysore,Tuticorin,Express,Daily,22.23,22.25
+13,16528,Hosur,Salem to Bangalore,Cannonnore,Yashwanthpur,Express,Daily,5.08,5.1
+14,76554,Hosur,Salem to Bangalore,Dharmapuri,Bangalore,Push and Pull Passenger,Except Sunday,6.32,6.33
+15,56513,Hosur,Salem to Bangalore,Karaikal,Bangalore,Passenger,Daily,16.43,16.45
+16,11014,Hosur,Salem to Bangalore,Coimbatore,Lokmanya Tilak,Express,Daily,14.13,14.15
+17,56241,Hosur,Salem to Bangalore,Salem,Yashwanthpur,Express,Daily,8.29,8.3
+18,12678,Hosur,Salem to Bangalore,Ernamkulam,Bangalore,Intercity,Daily,18.13,18.15
+19,12647,Hosur,Salem to Bangalore,Coimbatore,Nizamudeen,Kongu Express,Sunday,20.43,20.45
+20,16732,Hosur,Salem to Bangalore,Pondicherry,Yeshwanthpur,Express,Daily,6.02,6.04

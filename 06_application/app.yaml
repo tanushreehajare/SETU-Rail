@@ -1,0 +1,7 @@
+command:
+  - python
+  - app.py
+
+env:
+  - name: DATABRICKS_APP_PORT
+    value: "8000"

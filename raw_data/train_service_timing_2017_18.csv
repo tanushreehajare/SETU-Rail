@@ -1,0 +1,57 @@
+S.No,Train Number,Train Name,Days on Service,Schedule Time
+1,11021,Dadar - Tirunelveli Express,"Monday, Thursday, Friday",11.45
+2,12631,Chennai Egmore - Tirunelveli Superfast,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",07.05
+3,12633,Chennai Egmore - Kanyakumari Superfast,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",04.00
+4,12634,Kanyakumari - Chennai Superfast,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",19.00
+5,12641,Kanyakumari - Nizamuddin Superfast,"Wednesday, Friday",21.10
+6,12642,Delhi - Kanyakumari Superfast,"Monday, Wednesday",06.00
+7,12665,Howrah - Kanyakumari Superfast,Wednesday,08.20
+8,12666,Kanyakumari - Howrah Superfast,Saturday,09.35
+9,12667,Chennai Egmore - Nagercoil Superfast,Friday,06.00
+10,12668,Nagercoil - Chennai Egmore Superfast,Friday,18.15
+11,12689,Chennai Central - Nagercoil Superfast,Friday,09.35
+12,12690,Nagercoil - Chennai Central Superfast,Sunday,21.10
+13,16105,Chennai Egmore - Tirunelveli Express,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",06.15
+14,16106,Tiruchendur - Chennai Express,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",20.15
+15,16127,Chennai Egmore - Guruvayur Express,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",19.30
+16,16128,Guruvayur - Chennai Express,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",07.40
+17,16318-Slip,Himsagar Express Slip,Thursday,18.30
+18,16339,Mumbai CST - Nagercoil Express,"Sunday, Tuesday, Friday, Saturday",01.25
+19,16340,Nagercoil - Mumbai CST Express,"Monday, Tuesday, Wednesday, Friday",07.40
+20,16351,Mumbai CST - Nagercoil Balaji Express,"Monday, Thursday",02.05
+21,16352,Nagercoil - Mumbai CST Express,"Sunday, Thursday",07.40
+22,16353,Kacheguda - Nagercoil Express,Thursday,19.00
+23,16354,Nagercoil - Kacheguda Express,Tuesday,09.35
+24,16723,Ananthapuri Express,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",07.55
+25,16724,Ananthapuri Express,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",19.50
+26,16861,Puducherry - Kanyakumari Express,Friday,01.10
+27,16862,Kanyakumari - Puducherry Express,Friday,15.20
+28,17235,KSR Bengaluru - Nagercoil Express,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",05.40
+29,17236,Nagercoil - KSR Bengaluru Express,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",20.50
+30,19578,Jamnagar - Tirunelveli Express,"Sunday, Monday",22.20
+31,22619,Bilaspur - Tirunelveli Superfast,Thursday,05.15
+32,22620,Tirunelveli - Bilaspur Express,Sunday,01.10
+33,22621,Rameswaram - Kanyakumari Superfast,"Sunday, Tuesday, Friday",02.15
+34,22622,Kanyakumari - Rameswaram Superfast,"Sunday, Tuesday, Friday",23.35
+35,22627,Tiruchirappalli - Trivandrum Superfast,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",12.15
+36,22629,Mumbai Dadar - Tirunelveli Superfast,Friday,04.00
+37,22667,Nagercoil - Coimbatore Express,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",22.35
+38,22668,Coimbatore - Nagercoil Express,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",3.10
+39,56035,Tiruchendur - Tirunelveli Passenger,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",11.00
+40,56319,Nagercoil - Coimbatore Passenger,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",09.25
+41,56320,Coimbatore - Nagercoil Passenger,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",17.50
+42,56700,Madurai - Punalur Passenger,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",02.40
+43,56717,Kanyakumari - Tirunelveli Passenger,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",20.40
+44,56741,Tuticorin - Tirunelveli Passenger,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",20.40
+45,56762,Tiruchendur - Tirunelveli Passenger,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",09.05
+46,56764,Tiruchendur - Tirunelveli Passenger,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",17.55
+47,56766,Tiruchendur - Tirunelveli Passenger,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",19.40
+48,56767,Tuticorin - Tiruchendur Passenger,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",11.10
+49,56768,Tiruchendur - Tuticorin Passenger,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",16.10
+50,56769,Palakkad - Tiruchendur Passenger,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",13.55
+51,56770,Tiruchendur - Palakkad Passenger,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",12.30
+52,56796,Sengottai - Tirunelveli Passenger,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",08.40
+53,56798,Bhagavathipuram - Tirunelveli Passenger,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",17.10
+54,56800,Sengottai - Tirunelveli Passenger,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",12.30
+55,56802,Sengottai - Tirunelveli Passenger,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",20.10
+56,56825,Erode - Tirunelveli Passenger,"Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",22.40

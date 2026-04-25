@@ -1,0 +1,94 @@
+S.No,Type of Train,Train Number,Train Name ,Day,Arrival,Departure
+1,Express Train Passing through Coimbatore Junction,12671,Chennai - Mettupalayam Nilgiri Super Fast Express,Daily,05.00,05.15
+2,Express Train Passing through Coimbatore Junction,12672,Mettupalayam - Chennai - Nilgiri Super Fast Ernakulam Express,Daily,20.30,20.55
+3,Express Train Passing through Coimbatore Junction,16865,Tiruchirappalli - Ernakulam Express,Daily,00.55,01.00
+4,Express Train Passing through Coimbatore Junction,16866,Ernakulam- Tiruchirappalli,Daily,03.00,03.05
+5,Express Train Passing through Coimbatore Junction,16381,Mumbai CSTM - Kanniyakumari Express,Daily,11.45,11.50
+6,Express Train Passing through Coimbatore Junction,16382,Kanniyakumari Mumbai CSTM,Daily,18.00,18.05
+7,Express Train Passing through Coimbatore Junction,13351,Dhanbad - Allepey Tata Express,Daily,12.05,12.10
+8,Express Train Passing through Coimbatore Junction,13352,Allepey - Dhanbad Tata Express,Daily,11.55,12.00
+9,Express Train Passing through Coimbatore Junction,16525,Kanniyakumari - Bengaluru - Express,Daily,22.50,22.55
+10,Express Train Passing through Coimbatore Junction,16526,Bengaluru - Kanniyakumari - Express ,Daily,05.30,05.35
+11,Express Train Passing through Coimbatore Junction,17229,Kochuvelli - Hyderabad - Sabari Express,Daily,16.30,16.35
+12,Express Train Passing through Coimbatore Junction,17230,Hyderabad - Kochuvelli - Sabari Express,Daily,08.25,08.30
+13,Express Train Passing through Coimbatore Junction,16107,Chennai Egmore - Mangalore Express,Daily,10.55,11.00
+14,Express Train Passing through Coimbatore Junction,16108,Mangalore - Chennai Egmore Express,Daily,15.45,15.50
+15,Express Train Passing through Coimbatore Junction,12625,Trivandrum - New Delhi - Kerala Express,Daily,02.00,20.05
+16,Express Train Passing through Coimbatore Junction,12626,New Delhi - Trivandrum - Kerala Express,Daily,05.20,05.25
+17,Express Train Passing through Coimbatore Junction,12695,Chennai - Trivandrum - Superfast Express,Daily,23.00,23.05
+18,Express Train Passing through Coimbatore Junction,12696,Trivandrum - Chennai - Superfast Express,Daily,02.05,02.10
+19,Express Train Passing through Coimbatore Junction,16359,Eranakulam - Patna Express,Sat,03.15,03.20
+20,Express Train Passing through Coimbatore Junction,16360,Patna - Eranakulam Express,Tue,18.25,18.30
+21,Express Train Passing through Coimbatore Junction,16315,Bengaluru - Kochivelli Express,"Wed,Fri,Sun",00.20,00.25
+22,Express Train Passing through Coimbatore Junction,16316,Kochivelli - Bengaluru Express,"Tue,Thu,Fri",06.30,06.35
+23,Express Train Passing through Coimbatore Junction,16317,Kanniyakumari - Jammu Tawi Him Sagar Express,Fri,00.55,01.00
+24,Express Train Passing through Coimbatore Junction,16318,Jammu Tawi - Kanniyakumari Him Sagar Express,Mon,05.30,05.35
+25,Express Train Passing through Coimbatore Junction,16325,Indore - Trivandram Ahilyanagari Express ,Mon,07.55,08.00
+26,Express Train Passing through Coimbatore Junction,16326,Trivandram - Indore Ahilyanagari Express,Sat,15.15,15.20
+27,Express Train Passing through Coimbatore Junction,12512,Trivandram Gorokpur Raptisagar Express,"Tue,Wed,Sun",15.15,15.20
+28,Express Train Passing through Coimbatore Junction,12511,Gorokpur - Trivandram Raptisagar Express,"Tue,Fri,Sun",07.55,80.00
+29,Express Train Passing through Coimbatore Junction,12660,Nagarcoil - Shalimar Gurudev  Express,Wed,11.30,11.35
+30,Express Train Passing through Coimbatore Junction,12659, Shalimar Nagarcoil Gurudev  Express ,Sun,00.55,01.00
+31,Express Train Passing through Coimbatore Junction,16321,Bengaluru - Trivandrum Express,Thu,02.05,02.10
+32,Express Train Passing through Coimbatore Junction,16322,Trivandrum - Bengaluru - Express,Wed,00.55,01.00
+33,Express Train Passing through Coimbatore Junction,16687,Mangalore - Jammu Tavi Navyug Express,Mon,00.55,01.00
+34,Express Train Passing through Coimbatore Junction,16688,Jammu Tavi Mangalore Navyug Express,Thu,10.05,10.10
+35,Express Train Passing through Coimbatore Junction,12522,Ernakulam - Barauni Rapti Sagar Express,Fri,15.15,15.20
+36,Express Train Passing through Coimbatore Junction,12521,Barauni Rapti - Ernakulam Sagar Express,Mon,07.55,08.00
+37,Express Train Passing through Coimbatore Junction,12507,Ernakulam - Guwahati Express,Tue,01.25,01.30
+38,Express Train Passing through Coimbatore Junction,12508,Guwahati - Ernakulam Express,Fri,14.05,14.10
+39,Express Train Passing through Coimbatore Junction,16323,Trivandrum - Shalimar Express ,"Thu,Sat",01.25,01.30
+40,Express Train Passing through Coimbatore Junction,16324,Shalimar - Trivandrum - Express,"Tue,Sun",12.35,12.40
+41,Express Train Passing through Coimbatore Junction,16309,Ernakulam - Patna Express,"Mon,The",21.35,21.40
+42,Express Train Passing through Coimbatore Junction,16310,Patna - Ernakulam  Express,"Thu,Fri",12.35,12.40
+43,Express Train Passing through Coimbatore Junction,12643,Trivendrum - Nizamuddin Super fast Express,Tue,23.35,23.45
+44,Express Train Passing through Coimbatore Junction,12644,Nizamuddin - Trivandrum Super fast Express,Sun,01.15,01.20
+45,Express Train Passing through Coimbatore Junction,12645,Ernakulam - Nizamuddin Super fast Express,Sat,23.35,23.45
+46,Express Train Passing through Coimbatore Junction,12646,Nizamuddin - Ernakulam Super fast Express,Tue,01.15,01.20
+47,Express Train Passing through Coimbatore Junction,16327,Korba - Trivandrum Express,"Mon,Fri",07.55,08.00
+48,Express Train Passing through Coimbatore Junction,16328,Trivandrum - Korba Express,"Mon,Thu",15.20,15.25
+49,Express Train Passing through Coimbatore Junction,16627,Chennai - Mangalore West Coast Express,Daily,19.55,20.00
+50,Express Train Passing through Coimbatore Junction,16628,Mangalore - Chennai West Coast Express,Daily,06.20,06.25
+51,Express Train Passing through Coimbatore Junction,12677,Bengaluru - Ernakulam ,Daily,13.05,13.10
+52,Express Train Passing through Coimbatore Junction,12678,Ernakulam - Bengaluru,Daily,12.40,12.45
+53,Passenger Train Passing through Coimbatore Junction,56847,Tiruchirappalli - Palghat,Daily,18.40,18.45
+54,Passenger Train Passing through Coimbatore Junction,56848,Palghat - Tiruchirappalli,Daily,06.35,06.45
+55,Express Train Passing through Podanur Junction,12601,Chennai - Mangalore Super Fast,Daily,06.35,06.40
+56,Express Train Passing through Podanur Junction,12602,Mangalore - Chennai Super Fast,Daily,21.15,21.20
+57,Express Train Passing through Podanur Junction,16041,Chennai - Allepey Express,Daily,03.55,04.00
+58,Express Train Passing through Podanur Junction,16042,Allepey - Chennai Express,Daily,22.25,22.30
+59,Express Train Passing through Podanur Junction,16331,Mumbai CSTM Trivandrum Express,Tue,18.25,18.30
+60,Express Train Passing through Podanur Junction,16332,Trivandrum - MumbaiCSTM Express,Sat,13.30,13.35
+61,Express Train Passing through Podanur Junction,12683,Ernakula - Bengaluru Express,"Sun,Wed",21.05,21.10
+62,Express Train Passing through Podanur Junction,12684,Bengaluru - Ernakulam Express,"Mon,Tue",45.00,00.50
+63,Express Train Passing through Podanur Junction,12685,Chennai - Mangalore Express,"Mon, Wed, Fri, Sat, Sun",24.00,24.05
+64,Express Train Passing through Podanur Junction,12686,Mangalore - Chennai Express,"Tue, Wed,Thu, Fri, Sat,Sun",10.00,00.15
+65,At Coimbatore Junction (Departure),12674,Coimbatore - Chennai Cheran Express,NA,22.20,NA
+66,At Coimbatore Junction (Arrival),12673,Chennai - Coimbatore Cheran Express,NA,NA,06.10
+67,At Coimbatore Junction (Departure),12676,Coimbatore - Chennai Covai Express,NA,14.20,NA
+68,At Coimbatore Junction (Arrival),12675,Chennai - Coimbatore Covai Express,NA,NA,13.45
+69,At Coimbatore Junction (Departure),12680,Coimbatore - Chennai Inter City Express,NA,06.15,NA
+70,At Coimbatore Junction (Arrival),12679,Chennai - Coimbatore Inter City Express,NA,NA,22.15
+71,At Coimbatore Junction (Departure),12681,Chennai - Coimbatore Express,Fri,23.45,NA
+72,At Coimbatore Junction (Arrival),12682,Coimbatore - Chennai  Express,Sat,NA,06.50
+73,At Coimbatore Junction (Departure),12647,Coimbatore - Nizamudin Kongu Express,Sun,15.05,NA
+74,At Coimbatore Junction (Arrival),12648,Nizamudin - Coimbatore Kongu Express,Wed,NA,14.00
+75,At Coimbatore Junction (Departure),16614,Coimbatore - Rajkot Express,"Thu,Tue",23.45,NA
+76,At Coimbatore Junction (Arrival),16613,Rajkot - Coimbatore Express,"Sun,Wed",NA,02.00
+77,At Coimbatore Junction (Departure),11014,Coimbatore - Lokamanya Tilak Kurla Express,NA,08.30,NA
+78,At Coimbatore Junction (Arrival),11013,Coimbatore - Lokamanya Tilak Kurla Express,NA,NA,07.00
+79,At Coimbatore Junction (Departure),12084,Coimbatore - Mayiladuthurai Jansha - Habdi Express,Except Tuesday,07.00,NA
+80,At Coimbatore Junction (Arrival),12083,Mayiladuthurai - Coimbatore Jansha - Habdi Express,Except Tuesday,NA,21.20
+81,At Coimbatore Junction (Departure),12969,Coimbatore - Jaipur ,"Thu, Fri",09.20,NA
+82,At Coimbatore Junction (Arrival),12970,Jaipur - Coimbatore,"Thu, Fri",NA,18.00
+83,At Coimbatore Junction (Departure),16610,Coimbatore - Nagarcoil,NA,20.30,NA
+84,At Coimbatore Junction (Arrival),16609,Coimbatore - Nagarcoil,NA,NA,07.30
+85,At Coimbatore Junction (Departure),12244,Coimbatore - Chennai Durantho Express,"Mon, Wed, Thu, Fri, Sat, Sun",15.20,NA
+86,At Coimbatore Junction (Arrival),12243,Chennai - Coimbatore Durantho Express,"Tue,Thu, Fri, Sat, Sun, Mon",NA,13.55
+87,Passenger Trains at Coimbatore Junction,384/383,Coimbatore - Nagercoil ,Daily,07.10,20.45
+88,Passenger Trains at Coimbatore Junction,387/388,Coimbatore - Mangalore,Daily,07.40,19.30
+89,Passenger Trains at Coimbatore Junction,611/52110,Coimbatore - Cannanore ,Daily,14.00,13.15
+90,Passenger Trains at Coimbatore Junction,633/634,Coimbatore - Trichur,Daily,16.35,10.45
+91,Passenger Trains at Coimbatore Junction,52108/52107,Coimbatore - Erode,Daily,18.15,09.20
+92,Passenger Trains at Coimbatore Junction,657/658,Coimbatore - Mettupalayam,Except Sun,17.55,09.10
+93,Passenger Trains at Coimbatore Junction,66607/66606,Coimbatore - Palghat,Except Sun,03.55,04.00
