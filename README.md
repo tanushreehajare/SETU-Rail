@@ -1,4 +1,4 @@
-# 🚂 SETU-Rail
+# 🚂 SETU Rail
 
 **Smart Emergency & Travel Understanding for Indian Railways**
 
